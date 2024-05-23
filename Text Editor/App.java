@@ -46,7 +46,7 @@ public class App {
                     break; 
                     
                 case 4:
-                    System.out.println("Enter thr lineNumber");
+                    System.out.println("Enter the lineNumber");
                     lineNumber=scn.nextInt();
                     notepad.delete(lineNumber);;
                     break;
